@@ -6,7 +6,7 @@ My Shell
 2. VS Code
 
 # About:
-This is a project in Unix Systems Programming, which is a personal shell that is customized to my own needs. However, this is not the complete shell and lacks certain features that a normal shell has. 
+This is a project in Unix Systems Programming, which is a personal shell that is customized to my own needs. However, this is not the complete shell and lacks certain features that a normal shell has. I added functionalities such as redirection (< & >) and the built-in commands to replicate some of the commands already available on the command-line.
 
 # Instruction: 
 
